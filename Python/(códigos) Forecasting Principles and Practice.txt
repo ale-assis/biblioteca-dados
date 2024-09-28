@@ -1,0 +1,4 @@
+este é um repositório que tem as versões em python dos códigos usados no livro Forecasting: Principles and Practice.
+
+Onde está o livro?
+Pasta "R"

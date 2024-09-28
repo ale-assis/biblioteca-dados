@@ -1,0 +1,4 @@
+https://otexts.com/fpp3/
+
+Códigos em python:
+https://github.com/zgana/fpp3-python-readalong
